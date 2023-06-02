@@ -1,6 +1,6 @@
 # 3. Creating a TIA portal Library
 
-## Goal for this training chapter
+## :mortar_board: Goal for this training chapter :mortar_board:
 
 After this training chapter, you will:
 
@@ -44,7 +44,7 @@ Alternatively you can also perform the same action by opening the integrated ter
 
 You might have noticed that the `MotorWrapper` includes the `Start` function and `classFB`. This is due to the call structure inside of the AX project. The `MotorWrapper` calls the `Start` function which is located inside of the `public class motor`. The `ClassFB` handles the classes inside the code internally, and **cannot be implemented seperatly**.
 
-## Summary
+## :mortar_board: Summary :mortar_board:
 
 Goal reached? Check yourself...
 

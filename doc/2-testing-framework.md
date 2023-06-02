@@ -1,6 +1,6 @@
 # 2. Usage of the testing framework
 
-## Goal for this training chapter
+## :mortar_board: Goal for this training chapter :mortar_board:
 
 After this training session:
 
@@ -38,11 +38,11 @@ apax test
 
 > Note: in case of executing the tests by command line, the test explorer results will not be updated. The test results will be shown in the command line output.
 
-### :mortar_board: Test coverage (information) :mortar_board:
+### :exclamation:  Test coverage (information) :exclamation: 
 
 If you're interested regarding the test coverage, you'll find information [here](https://console.prod.ax.siemens.cloud/docs/axunit/coverage).
 
-## Summary
+## :mortar_board: Summary :mortar_board:
 
 Goal reached? Check yourself...
 

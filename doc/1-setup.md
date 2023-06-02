@@ -1,6 +1,6 @@
 # 1. Setting up a project and Apax package manager usage
 
-## Goal for this training chapter
+## :mortar_board: Goal for this training chapter :mortar_board:
 
 After this training chapter, you will:
 
@@ -24,7 +24,7 @@ After this training chapter, you will:
 
    ![drawing](./assets/20230601_111451_image.png)
 
-### :mortar_board: Introducing AX project folder structure (information) :mortar_board:
+### :exclamation: Introducing AX project folder structure (information) :exclamation: 
 
 In the cloned project the following folders and files are present in the root directory:
 
@@ -44,7 +44,7 @@ Folders:
 
 Depending on the tools used and installed more folders may be created. For example for compiled source code the `bin` folder is created. When apax packages are installed the `.apax` folder.
 
-### :mortar_board: Introducing apax.yml (information) :mortar_board:
+### :exclamation: Introducing apax.yml (information) :exclamation:
 
 If you are already familiar with `Apax` and the `apax.yml` you can skip this section.
 
@@ -103,7 +103,7 @@ In this training we'll make use of the unit test capability of AX, `@ax/axunit`.
 
 This will install the package as a development dependency, you can check if the package is present in the `apax.yml` under the `devDependencies`.
 
-### Summary
+### :mortar_board: Summary :mortar_board:
 
 Goal reached? Check yourself...
 

@@ -1,6 +1,6 @@
 # 4. Expanding the library functionality
 
-## Goal for this training chapter
+## :mortar_board: Goal for this training chapter :mortar_board:
 
 After this training chapter, you will:
 
@@ -114,7 +114,7 @@ END_NAMESPACE
 
 5. Export the TIAX project to be used in TIA portal, tip check [the previous chapter](./3-exportToTia.md)
 
-## Summary
+## :mortar_board: Summary :mortar_board:
 
 Goal reached? Check yourself...
 
