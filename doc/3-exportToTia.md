@@ -10,26 +10,23 @@ After this training chapter, you will:
 
 ### :raised_hands: Executing the conversion (hands-on) :raised_hands:
 
-In this hands-on we will start the required tools to convert the TIAX project to a TIA portal library.
+In this hands-on we will start the required tools to convert the TIAX project to a TIA portal library. This can either be done by starting the required tools trough the AX userinterface or trough the integrated terminal of AX. These workflows produce the same result.
 
 #### Execute the conversion script using the UI
 
 1. Click on the `Run Script` button in the status bar.
 2. Select `create-tialib` this will start the conversion scripts as defined in the apax.yml. This script will output the TIA library in the `bin/TIAPortalLibrary` folder as defined in the `variables` in the `apax.yml`.
 
-
-
 ![](assets\20230601_132918_image.png)
 
-#### Execute the conversion script using the integrated terminal
+#### Alternative: Execute the conversion script using the integrated terminal
 
 Alternatively you can also perform the same action by opening the integrated terminal in the AX IDE:
 
 1. Open the integrated terminal of AX by either going to the menu `Terminal>New Terminal` or *ctrl+shift+`*.
-5. The terminal will open in the bottom half of the screen, enter the command `apax create-tialib` to start the conversion script, this script is defined in the apax.yml. This script will output the TIA library in the `bin/TIAPortalLibrary` folder as defined in the `variables` in the `apax.yml`.
+2. The terminal will open in the bottom half of the screen, enter the command `apax create-tialib` to start the conversion script, this script is defined in the apax.yml. This script will output the TIA library in the `bin/TIAPortalLibrary` folder as defined in the `variables` in the `apax.yml`.
 
 ![drawing](./assets/20230601_110209_image.png)
-
 
 ### :raised_hands: Opening the library in TIA Portal (hands-on) :raised_hands:
 

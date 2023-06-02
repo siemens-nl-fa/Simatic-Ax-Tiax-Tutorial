@@ -46,7 +46,6 @@ Folders:
 
 Depending on the tools used and installed more folders may be created. For example for compiled source code the `bin` folder is created. When apax packages are installed the `.apax` folder.
 
-
 ### :exclamation: Introducing apax.yml (information) :exclamation:
 
 If you are already familiar with `Apax` and the `apax.yml` you can skip this section.
@@ -95,7 +94,7 @@ The `scripts` section is used to describe several scripts which can be used to a
 
 ### :raised_hands: Installing packages trough Apax (Hands-on) :raised_hands:
 
-In this training we'll make use of the unit test capability of AX, `@ax/axunit`. However if you inspected the `apax.yml` closely you might have seen that the `@ax/axunit` package is not present in the `apax.yml`, and therefore not availible in the workspace. In this chapter we are installing this package.
+In this training we'll make use of the **unit test** capability of AX, `@ax/axunit`. However if you inspected the `apax.yml` closely you might have seen that the `@ax/axunit` package is not present in the `apax.yml`, and therefore not availible in the workspace. In this chapter we are installing this package.
 
 1. In the sidebar open the `Apax tab`
 2. Search for **axunit**
@@ -105,6 +104,13 @@ In this training we'll make use of the unit test capability of AX, `@ax/axunit`.
    ![drawing](./assets/20230601_112100_image.png)
 
 This will install the package as a development dependency, you can check if the package is present in the `apax.yml` under the `devDependencies`.
+
+5. AX Code should ask to reload the workspace in the bottom right of the screen, click the `Reload` button.
+
+   ![drawing](./assets/20230602_151907_image.png)
+
+   > If this pop up is not appearing use *ctrl+shift+p* to open the command panel and execute the `Reload Window` command
+   >
 
 ### :mortar_board: Summary :mortar_board:
 

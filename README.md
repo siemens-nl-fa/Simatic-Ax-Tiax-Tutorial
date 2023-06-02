@@ -3,7 +3,7 @@
 In this standardizer tutorial, you'll learn about some of the important tools necessary to develop a ST library with SIMATIC AX and export it to TIA Portal.
 The main goal of this tutorial is to get familiar with the TIAX workflow in AX and basics of the AX IDE.
 
-![drawing](./assets/20230601_131802_image.png)
+![drawing](./doc/assets/20230601_131802_image.png)
 
 > Note: The scope of the tutorial is limited untill the TIA library import.
 

@@ -13,16 +13,15 @@ After this training session:
 
 In the tutorial, a single test has been compared to be executed. You can find the predefined test in the `test.st` file in the `test` folder.
 
-1. Open the test explorer
+1. Open the test explorer and the `test.st` file
 2. Run the tests by clicking on `Run Tests`
 3. You will see the test results in the right window
 
 ![drawing](./assets/20230601_112614_image.png)
 
-4. Note that the test will **fail!**
+4. Note that the test will **fail!** :exclamation:
 5. Open the `library.st` file (located in the `src` folder). The test will call the `motor.start()` function. If we take a look at this function we will see that this function will allways return `TRUE`. However our test case expected `FALSE`.
 6. Since it is expected behaviour for the `motor.start()` function to return `TRUE`, change the `expected` value in the test case. And run the test again.
-
 
 ![drawing](./assets/20230601_113247_image.png)
 
@@ -38,10 +37,6 @@ apax test
 
 > Note: in case of executing the tests by command line, the test explorer results will not be updated. The test results will be shown in the command line output.
 
-### :exclamation:  Test coverage (information) :exclamation: 
-
-If you're interested regarding the test coverage, you'll find information [here](https://console.prod.ax.siemens.cloud/docs/axunit/coverage).
-
 ## :mortar_board: Summary :mortar_board:
 
 Goal reached? Check yourself...
@@ -49,7 +44,6 @@ Goal reached? Check yourself...
 - you know the test explorer and the `Run tests` button ✔
 - you can execute tests within the IDE ✔
 - you've knowledge about the command line based testing ✔
-- you know, where you find something about test coverage
 
 [Continue with next chapter](./3-exportToTia.md)
 
