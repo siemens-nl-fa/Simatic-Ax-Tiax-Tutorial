@@ -9,7 +9,7 @@ After this training session:
 - you've knowledge about the command line based testing
 - you know, where you find something about test coverage
 
-### The test explorer and executing tests (hands-on)
+### :raised_hands: The test explorer and executing tests (hands-on) :raised_hands:
 
 In the tutorial, a single test has been compared to be executed. You can find the predefined test in the `test.st` file in the `test` folder.
 
@@ -38,7 +38,7 @@ apax test
 
 > Note: in case of executing the tests by command line, the test explorer results will not be updated. The test results will be shown in the command line output.
 
-### Test coverage (information)
+### :mortar_board: Test coverage (information) :mortar_board:
 
 If you're interested regarding the test coverage, you'll find information [here](https://console.prod.ax.siemens.cloud/docs/axunit/coverage).
 

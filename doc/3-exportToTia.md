@@ -8,7 +8,7 @@ After this training chapter, you will:
 - import the library in to TIA portal
 - know that libraries in TIA portal that are imported from AX are write protected
 
-### Executing the conversion (hands-on)
+### :raised_hands: Executing the conversion (hands-on) :raised_hands:
 
 In this hands-on we will start the required tools to convert the TIAX project to a TIA portal library.
 
@@ -31,7 +31,7 @@ Alternatively you can also perform the same action by opening the integrated ter
 ![drawing](./assets/20230601_110209_image.png)
 
 
-### Opening the library in TIA Portal (hands-on)
+### :raised_hands: Opening the library in TIA Portal (hands-on) :raised_hands:
 
 1. Open the TIA Portal V18 project inside of the `tia folder` inside of the AX project.
 2. When TIA is started select the `libraries tab`

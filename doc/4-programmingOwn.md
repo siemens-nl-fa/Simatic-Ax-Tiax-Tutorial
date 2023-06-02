@@ -8,7 +8,7 @@ After this training chapter, you will:
 - write a test case for these functions
 - export your library from AX to TIA on your own
 
-### Write some code (hands-on)
+### :raised_hands: Write some code (hands-on) :raised_hands:
 
 1. Create a new ST file in the `src` folder call the file `math.st`
 2. Write a function to do a simple addition of 2 integer variables (example below)

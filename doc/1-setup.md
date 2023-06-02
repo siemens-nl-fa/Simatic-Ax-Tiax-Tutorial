@@ -9,7 +9,7 @@ After this training chapter, you will:
 - learn how to install and update dependencies using the Apax extension
 - know the difference between `devDependencies` and `dependencies`
 
-### Cloning the workspace with the clone link (hands-on)
+### :raised_hands: Cloning the workspace with the clone link (hands-on) :raised_hands:
 
 1. Copy the clone link to your clipboard:
 
@@ -24,7 +24,7 @@ After this training chapter, you will:
 
    ![drawing](./assets/20230601_111451_image.png)
 
-### Introducing AX project folder structure (information)
+### :mortar_board: Introducing AX project folder structure (information) :mortar_board:
 
 In the cloned project the following folders and files are present in the root directory:
 
@@ -44,7 +44,7 @@ Folders:
 
 Depending on the tools used and installed more folders may be created. For example for compiled source code the `bin` folder is created. When apax packages are installed the `.apax` folder.
 
-### Introducing apax.yml (information)
+### :mortar_board: Introducing apax.yml (information) :mortar_board:
 
 If you are already familiar with `Apax` and the `apax.yml` you can skip this section.
 
@@ -58,7 +58,6 @@ If you want to develop a library with SIMATIC AX, you will need some developer t
 For this tutorial, we will install the AxUnit Unit testing framework from apax.
 
 Before we install all required dependencies, let's have a look into the apax.yml. The apax.yml is a configuration file for the Apax package manager. It contains all relevant information for the workspace. The screen shot below is not the Apax.yml our project currently contains.
-
 
 ![drawing](./assets/20230601_115148_image.png)
 
@@ -91,7 +90,7 @@ The `devDependencies` section contains development dependencies which are necess
 
 The `scripts` section is used to describe several scripts which can be used to automate commands within Apax. For example the comand `create-tialib` will execute the commands `apax build`, `apax export-tialib` and `apax import-tialib`. This is usefull for automating jobs that normally would be executed from the terminal. The `variables` can be used as parameters to adjust the scripts. In this case the variables will provide the necesary paths for saving the binaries and TIA portal library file.
 
-### Installing packages trough Apax (Hands-on)
+### :raised_hands: Installing packages trough Apax (Hands-on) :raised_hands:
 
 In this training we'll make use of the unit test capability of AX, `@ax/axunit`. However if you inspected the `apax.yml` closely you might have seen that the `@ax/axunit` package is not present in the `apax.yml`, and therefore not availible in the workspace. In this chapter we are installing this package.
 
