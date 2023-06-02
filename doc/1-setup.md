@@ -24,7 +24,9 @@ After this training chapter, you will:
 
    ![drawing](./assets/20230601_111451_image.png)
 
-### :exclamation: Introducing AX project folder structure (information) :exclamation: 
+> Note: the next chapter is information regarding the folder structure and apax package manager, the hands-on will [continue](:raised_hands:-Installing-packages-trough-Apax-(Hands-on)-:raised_hands:) after the information sections.
+
+### :exclamation: Introducing AX project folder structure (information) :exclamation:
 
 In the cloned project the following folders and files are present in the root directory:
 
@@ -43,6 +45,7 @@ Folders:
 - `.gitignore` (optional for git integration, describes which files and folders are included in git)
 
 Depending on the tools used and installed more folders may be created. For example for compiled source code the `bin` folder is created. When apax packages are installed the `.apax` folder.
+
 
 ### :exclamation: Introducing apax.yml (information) :exclamation:
 
