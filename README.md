@@ -23,7 +23,7 @@ The
 
 ## Training chapters
 
-- [1. Setting up a project and Apax package manager usage](./doc/1-setup.md)(Start here)
+- [1. Setting up a project and Apax package manager usage](./doc/1-setup.md) :arrow_left:(Start here)
 - [2. Usage of the testing framework](./doc/2-testing-framework.md)
 - [3. Creating the TIA portal Library](./doc/3-exportToTia.md)
 - [4. Expanding the library functionality](./doc/4-programmingOwn.md)
