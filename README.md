@@ -5,7 +5,7 @@ The main goal of this tutorial is to get familiar with the TIAX workflow in AX a
 
 ![drawing](./doc/assets/20230601_131802_image.png)
 
-> Note: The scope of the tutorial is limited untill the TIA library import.
+> Note: The scope of the tutorial is limited to the TIAX workflow
 
 After this tutorial, you will:
 
@@ -27,22 +27,25 @@ The
 - [2. Usage of the testing framework](./doc/2-testing-framework.md)
 - [3. Creating the TIA portal Library](./doc/3-exportToTia.md)
 - [4. Expanding the library functionality](./doc/4-programmingOwn.md)
+- [5. Debugging the AX library in the PLC](./doc/5-debugLibRuntime.md)
 
 ### Bonus chapters
-
-- [Introduction to OOP](./doc/oop-introduction.md)
 - [Study the AX Community Github](https://github.com/simatic-ax)
 
 ## Prerequisites
 
-During the OEM workshop the following prerequisites are allready fulfilled.
+During this tutorial the following prerequisites are are required.
 
-- an AX account
-- an installation to the offline AX IDE
-- a github account
+- an configured AX account
+- a configured github account
+- an installation of the offline AX IDE logged in to APAX
+- locally configured Git install
+- TIA portal V18> installation
+- PLCSIM Advanced or physical s7-1500
+
 
 ## Additional information
-
+- This tutorial was inspiration for creating the simatic-ax-tiax-tutorial: [standardizer-tutorial-lib](https://github.com/simatic-ax/standardizer-tutorial-lib)
 - [The AX website](https://axcite.me) (login required)
 - [The AX Community Github](https://github.com/simatic-ax)
 - [The SIOS overview page](https://support.industry.siemens.com/cs/document/109815017)

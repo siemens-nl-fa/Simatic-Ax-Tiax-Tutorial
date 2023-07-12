@@ -122,4 +122,6 @@ Goal reached? Check yourself...
 - you can create your own tests within the IDE ✔
 - you exported your library to TIA portal on your own ✔
 
+[Continue with next chapter](./5-debugLibRuntime.md)
+
 [Back to overview](./../README.md)
