@@ -73,4 +73,6 @@ Goal reached? Check yourself...
 - you learned to setup the debugger in AX ✔
 - you got familiar with monitoring variables in your code from AX ✔
 
+Check out the official docs [AX docs](https://console.simatic-ax.siemens.io/docs/ax2tia/debugging_workflow)
+
 [Back to overview](./../README.md)
