@@ -62,6 +62,7 @@ variables:
 
 1. Add logpoints to your code at the locations where you want to take a closer look by **right clicking** a variable name and select `Add to logpoint` For example **v1** and **v2** in the `math.st` file.
 2. Start debugging by pressing *F5*, the actual values of the logpoints should be displayed
+> Note: Make sure that your set pg/pc interface is correctly configured.
 
    ![drawing](./assets/20230712_152836_image.png)
 
