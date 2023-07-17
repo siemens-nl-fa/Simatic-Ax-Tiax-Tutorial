@@ -23,7 +23,7 @@ In this hands-on we will start the required tools to convert the TIAX project to
 
 Alternatively you can also perform the same action by opening the integrated terminal in the AX IDE:
 
-1. Open the integrated terminal of AX by either going to the menu `Terminal>New Terminal` or *ctrl+shift+`*.
+1. Open the integrated terminal of AX by either going to the menu `Terminal>New Terminal` or *ctrl+shift+`*
 2. The terminal will open in the bottom half of the screen, enter the command `apax create-tialib` to start the conversion script, this script is defined in the apax.yml. This script will output the TIA library in the `bin/TIAPortalLibrary` folder as defined in the `variables` in the `apax.yml`.
 
 ![drawing](./assets/20230601_110209_image.png)
