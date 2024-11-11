@@ -1,7 +1,5 @@
 # AX standardizer tutorial TIAX usecase
 
-# Currently this repo might be broken!
-
 In this standardizer tutorial, you'll learn about some of the important tools necessary to develop a ST library with SIMATIC AX and export it to TIA Portal.
 The main goal of this tutorial is to get familiar with the TIAX workflow in AX and basics of the AX IDE.
 
@@ -44,8 +42,9 @@ During this tutorial the following prerequisites are are required.
   - [how to add a SSH key on GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
   - >Note: you need this public key to be able to clone the repository in the cloud IDE
 - an installation of the offline AX IDE logged in to APAX (using apax login)
+- installed the [prerequisites for AX](https://console.simatic-ax.siemens.io/docs/get-started/prerequisites)
 - locally configured Git install
-- TIA portal V18> installation
+- TIA portal V19> installation
 - PLCSIM Advanced or physical s7-1500
 
 
