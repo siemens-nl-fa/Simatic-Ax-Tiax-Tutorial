@@ -94,11 +94,11 @@ The `scripts` section is used to describe several scripts which can be used to a
 
 ### :raised_hands: Installing packages trough Apax (Hands-on) :raised_hands:
 
-In this training we'll make use of the **unit test** capability of AX, `@ax/axunit`. However if you inspected the `apax.yml` closely you might have seen that the `@ax/axunit` package is not present in the `apax.yml`, and therefore not availible in the workspace. In this chapter we are installing this package.
+To illustrate the apax package manager, we'll install the system-math library into our project.
 
 1. In the sidebar open the `Apax tab`
-2. Search for **axunit**
-3. Make sure to **click** on the `@ax/axunit` entry. 
+2. Search for **math**
+3. Make sure to **click** on the `@ax/system-math` entry. 
 4. Use the `Install` option to install it as a dependency. 
 
    ![drawing](./assets/20230601_112100_image.png)
