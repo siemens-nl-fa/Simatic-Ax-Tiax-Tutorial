@@ -18,7 +18,7 @@ NAMESPACE MotorTests
 
             result := testInstance.Start();
 
-            Assert.Equal(actual := result, expected := FALSE);
+            Assert.Equal(actual := result, expected := TRUE);
         
         END_METHOD
     END_CLASS

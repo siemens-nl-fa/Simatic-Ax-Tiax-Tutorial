@@ -98,19 +98,12 @@ In this training we'll make use of the **unit test** capability of AX, `@ax/axun
 
 1. In the sidebar open the `Apax tab`
 2. Search for **axunit**
-3. Make sure to **click** on the `@ax/axunit` entry. The window to the right should fill with more information about the package. In the right window select `version 3.0.6` from the dropdown menu.
-4. Use the `Install -D` option to install it as a development dependency. (since it is only needed during development)
+3. Make sure to **click** on the `@ax/axunit` entry. 
+4. Use the `Install` option to install it as a dependency. 
 
    ![drawing](./assets/20230601_112100_image.png)
 
-This will install the package as a development dependency, you can check if the package is present in the `apax.yml` under the `devDependencies`.
-
-5. AX Code should ask to reload the workspace in the bottom right of the screen, click the `Reload` button.
-
-   ![drawing](./assets/20230602_151907_image.png)
-
-   > If this pop up is not appearing use *ctrl+shift+p* to open the command panel and execute the `Reload Window` command
-   >
+This will install the package as a dependency, you can check if the package is present in the `apax.yml` under the `Dependencies`.
 
 ### :mortar_board: Summary :mortar_board:
 
