@@ -30,10 +30,10 @@ Alternatively you can also perform the same action by opening the integrated ter
 
 ### :raised_hands: Opening the library in TIA Portal (hands-on) :raised_hands:
 
-1. Open the TIA Portal V18 project inside of the `tia folder` inside of the AX project.
+1. Open the TIA Portal project inside of the `tia folder` inside of the AX project.
 2. When TIA is started select the `libraries tab`
 3. Open a library using the `open library button`
-4. Find your AX project and open the `TIAPortalLibrary.al18` file located in the `bin/TIAPortalLibrary` folder.
+4. Find your AX project and open the `TIAPortalLibrary.al19` file located in the `bin/TIAPortalLibrary` folder.
 5. Drag the `MotorWrapper FB` from the library into the Main ob, and see what happens.
 6. Open one of the library blocks, note that these are write protected. This is due to the code directly being compiled from ST to machine code in AX.
 
